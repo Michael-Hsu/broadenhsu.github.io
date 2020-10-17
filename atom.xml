@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/Michael-Hsu/broadenhsu.github.io/atom.xml" rel="self"/>
+  <link href="https://github.com/Michael-Hsu/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Michael-Hsu/broadenhsu.github.io/"/>
+  <link href="https://github.com/Michael-Hsu/"/>
   <updated>2020-10-17T03:54:34.137Z</updated>
-  <id>https://github.com/Michael-Hsu/broadenhsu.github.io/</id>
+  <id>https://github.com/Michael-Hsu/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hellowolrd</title>
-    <link href="https://github.com/Michael-Hsu/broadenhsu.github.io/2020/10/17/hellowolrd/"/>
-    <id>https://github.com/Michael-Hsu/broadenhsu.github.io/2020/10/17/hellowolrd/</id>
+    <link href="https://github.com/Michael-Hsu/2020/10/17/hellowolrd/"/>
+    <id>https://github.com/Michael-Hsu/2020/10/17/hellowolrd/</id>
     <published>2020-10-17T03:53:06.000Z</published>
     <updated>2020-10-17T03:54:34.137Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Michael-Hsu/broadenhsu.github.io/2020/10/17/hello-world/"/>
-    <id>https://github.com/Michael-Hsu/broadenhsu.github.io/2020/10/17/hello-world/</id>
+    <link href="https://github.com/Michael-Hsu/2020/10/17/hello-world/"/>
+    <id>https://github.com/Michael-Hsu/2020/10/17/hello-world/</id>
     <published>2020-10-17T03:32:00.695Z</published>
     <updated>2020-10-17T03:32:00.696Z</updated>
     
